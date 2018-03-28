@@ -1,0 +1,30 @@
+        
+        
+h1
+{
+  color:Red;
+  text-align: center;
+}
+.leftbox{
+ float: left; 
+}
+#child h3{
+  text-align:center;
+  text-decoration: underline;}
+#child p{
+text-align:right;
+color:blue;
+  }
+  #ComFou>h3{
+     text-align:center;
+     text-decoration: underline;
+
+  }
+#Zip2 h3,#X h3,#spacex h3{
+  text-align:center;
+     text-decoration: underline;
+}
+#Zip2 p,#X p,#spacex p{
+  text-align:right;
+  color:blue;
+}
